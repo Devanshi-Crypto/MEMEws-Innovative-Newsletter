@@ -1,1 +1,2 @@
 # MEMEws---Innovative-Newsletter
+Memews is a coined term for Memes and news. As a part of society, our main concern was the decreasing consumers of the news media, the false content, and the lack of social awareness among the people. We decided to produce an effective application that helps to gain back people's trust in news media and also in increasing the news literacy rate. The concept of Memews originally is an innovative newsletter that combines the contrasts of the two different transmission media: news and memes portraying the truth and satire.
