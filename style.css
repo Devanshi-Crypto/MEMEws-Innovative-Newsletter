@@ -240,6 +240,10 @@ footer .social a{
     text-align: center;
 }
 
+.tweet{
+    margin-top:10rem;   
+}
+
 
 /* media */
 
@@ -318,7 +322,10 @@ footer .social a{
     .desc a{
         width: 100%;
         text-align: left;
-        color: #333;
+        color: white;
         padding: 1rem 0;
     }
 }
+
+
+
